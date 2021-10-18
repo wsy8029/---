@@ -6,18 +6,17 @@
 
 
 ### 10.2 시험 방법
-    - 사용자 학습을 위해 럭스로보에서 제공하는 AI 학습용 데이터 세트의 개수 확인
-    - 데이터 세트 5개 확인
+    - MODI와 연동하여 Python으로 실행할 수 있는 AI 학습 모델의 종류 확인
+  
 
 
 ### 10.3 확인 항목
-    - 5종의 AI 학습용 데이터 세트가 있는지 확인
+    - 3종의 AI 학습용 모델이 있는지 확인
+    - 측정시료 1종 모델에 대한 동작 테스트
 
 
 ### 10.4 시험 결과
     - 아래 5종의 AI 학습용 데이터 세트가 있음을 확인
-    - 1. TTC(Text To Code)음성 코딩용 데이터셋
-    - 2. 자율 운행 선박 모델 학습용 gyro 데이터셋
-    - 3. LMS 평가 및 추천 시스템 모델 학습용 사용자 학습 이력 데이터셋
-    - 4. 자율주행차 Object Detection 모델 학습용 이미지 데이터셋
-    - 5. 자율주행차 Cruise Control 모델 학습용 경로 IR센서 데이터셋
+    - 1. 마법지팡이 콘텐츠(https://github.com/wsy8029/ai-contents-gyro-car) 모델 확인
+    - 2. 자율주행차 콘텐츠 - Object detection(https://github.com/wsy8029/ai-curriculum-autonomous-car/tree/main/02.object_detection) 모델 확인
+    - 3. 자율주행차 콘텐츠 - 크루즈 컨트롤(https://github.com/wsy8029/ai-contents-maze-runner) 모델 확인
