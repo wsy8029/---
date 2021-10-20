@@ -17,9 +17,12 @@
 
 
 ### 6.4 시험 결과
-    - 5개의 Demo 예제 확인 완료
+    - 5개 이상(19개)의 Demo 예제 확인 완료
     
 
+* Demo 예시1 - 프로젝트3-2차시(Project3 _ HelloAI 2차_최종.ent)  
+<img width="1000" src="./img/demo.png"></img>  
+* Demo 예시2 - 프로젝트9-2차시(Project9_HelloAI_2차_최종.ent)  
 <img width="1000" src="./img/demo2.png"></img>  
 
 - 프로젝트1 1차시  
