@@ -20,10 +20,10 @@
     - 5개의 Demo 예제 확인 완료
     
 
-<img width="500" src="./img/demo2.png"></img>  
+<img width="1000" src="./img/demo2.png"></img>  
 
 - 프로젝트1 1차시  
-<img width="500" src="./img/1-1.png"></img>  
+<img width="700" src="./img/1-1.png"></img>  
 
 - 프로젝트1 2차시  
 <img src="/img/1-2.png"></img>  
