@@ -21,16 +21,24 @@
     
 
 
-1. 학습자료 1 - 라인 감지  
+#### 1. 학습자료 1 - 라인 감지  
 <img width="1000" src="./img/1-1.png"></img>  
 <img width="1000" src="./img/1-2.png"></img>  
-2. 학습자료 2 - 물체 탐지  
+
+
+#### 2. 학습자료 2 - 물체 탐지  
 <img width="1000" src="./img/2-1.png"></img>   
 <img width="1000" src="./img/2-2.png"></img>  
-3. 학습자료 3 - 크루즈 컨트롤  
+
+
+#### 3. 학습자료 3 - 크루즈 컨트롤  
 <img width="1000" src="./img/3-1.png"></img>  
 <img width="1000" src="./img/3-2.png"></img>  
-4. 학습자료 4 - 자율 주차  
+
+
+#### 4. 학습자료 4 - 자율 주차  
 <img width="1000" src="./img/4.png"></img>   
-5. 학습자료 5 - 안전한 후진  
+
+
+#### 5. 학습자료 5 - 안전한 후진  
 <img width="1000" src="./img/5.png"></img>   
