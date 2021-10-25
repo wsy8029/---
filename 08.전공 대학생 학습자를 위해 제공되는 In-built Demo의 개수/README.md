@@ -1,4 +1,4 @@
-## 8.전공 대학생 학습자를 위해 제공되는 In-built Demo의 개수
+2## 8.전공 대학생 학습자를 위해 제공되는 In-built Demo의 개수
 
 
 
@@ -21,5 +21,28 @@
     
 
 
-1. Demo 예제(자율주행차) 1 - 라인 감지
-<img width="1000" src="./img/1.png"></img>   
+1. Demo 예제(자율주행차) 1 - 라인 감지  
+<img width="500" src="./img/11.png"></img>   
+<img width="1000" src="./img/12.png"></img>   
+
+
+2. Demo 예제(자율주행차) 2 - 물체 감지  
+<img width="500" src="./img/21.png"></img>   
+<img width="1000" src="./img/22.png"></img>   
+
+
+3. Demo 예제(자율주행차) 3 - 크루즈 컨트롤  
+<img width="500" src="./img/31.png"></img>   
+<img width="1000" src="./img/32.png"></img>   
+
+
+4. Demo 예제(자율주행차) 4 - 자율 주차  
+<img width="500" src="./img/41.png"></img>   
+<img width="1000" src="./img/42.png"></img>   
+<img width="700" src="./img/43.png"></img>  
+
+
+5. Demo 예제(자율주행차) 5 - 안전한 후진  
+<img width="500" src="./img/51.png"></img>   
+<img width="1000" src="./img/52.png"></img>   
+<img width="700" src="./img/53.png"></img>  
